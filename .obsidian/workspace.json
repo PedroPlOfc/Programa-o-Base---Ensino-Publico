@@ -1,0 +1,245 @@
+{
+  "main": {
+    "id": "dc4c5bb424f701fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "15a5baf823d7c50a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "568a41695a222aba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git/1. Guia Git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Guia Git"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8a05df62c8c7dfdc",
+    "type": "split",
+    "children": [
+      {
+        "id": "b61f2c76cc97a166",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de75e72b249137a4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "44f517bf0a632180",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "65949d4e6d693d63",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 271.5
+  },
+  "right": {
+    "id": "ae35682f122d7348",
+    "type": "split",
+    "children": [
+      {
+        "id": "14bf6fe6df0210c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8eead29fea21d734",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Full Stack/Carreira FullStack - O que eu preciso saber.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos"
+            }
+          },
+          {
+            "id": "a485970ae4e4557e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Front-End - Amanhecer/Html.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Html"
+            }
+          },
+          {
+            "id": "ed4e7d5c8ce3e609",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "3416c2ea91eb185a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "68004c7406bfe637",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Git/1. Guia Git.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          },
+          {
+            "id": "ef4ebc65d02edff8",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "de75e72b249137a4",
+  "lastOpenFiles": [
+    "Sem título 1.canvas",
+    "2026-08-29.md",
+    "Sem título.canvas",
+    "Git/2. Guia Git.md",
+    "Git/1. Guia Git.md",
+    "Sem título 3.base",
+    "Sem título.base",
+    "Sem título 2.base",
+    "Sem título 1.base",
+    "0. Lógica da Programação/0.1 Lógica da Programação.md",
+    "3. JavaScript/Tabela Verdade.png",
+    "3. JavaScript/3.1 Estrutura de Funções.md",
+    "3. JavaScript/3. Estruturas de Programação.md",
+    "3. JavaScript/2. Tipos de dados e operadores.md",
+    "3. JavaScript/1. JavaScript.md",
+    "3. JavaScript/0. Seções.md",
+    "2. CSS/3. CSS Avançado.md",
+    "2. CSS/2. CSS Intermediário.md",
+    "2. CSS/1. CSS Introdutório.md",
+    "2. CSS/0.9 Css.md",
+    "1. HTML/3. HTML Avançado.md",
+    "1. HTML/2. HTML Intermediário.md",
+    "1. HTML/1. HTML Introdutório.md",
+    "1. HTML/0.9 Html.md",
+    "Full Stack/Carreira FullStack - O que eu preciso saber.md",
+    "Full Stack/DEPOIS DO JAVASCRIPT.md",
+    "Full Stack/JavaScript.md",
+    "0. Lógica da Programação",
+    "2. CSS",
+    "1. HTML",
+    "Sem título.md",
+    "Pasted image 20260827220045.png",
+    "Pasted image 20260827220041.png",
+    "Pensamentos e Ideias",
+    "Nova pasta",
+    "Teoria da Computação.rar",
+    "Teoria da Computação/Teoria da Computação/Aula 2/📚 Preparação para a Aula 02.md",
+    "Teoria da Computação/Teoria da Computação/Aula 2/Sem título.md",
+    "Teoria da Computação/Teoria da Computação/Aula 1/Exercícios.md",
+    "Teoria da Computação/Teoria da Computação/Aula 1/🛠️ Setup do ambiente.md"
+  ]
+}
