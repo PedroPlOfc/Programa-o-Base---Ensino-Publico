@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. HTML/1. HTML Introdutório.md",
+                "file": "3. Responsividade/1. Configurando a responsividade.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. HTML Introdutório"
+              "title": "1. Configurando a responsividade"
             }
           }
         ]
@@ -201,10 +201,13 @@
   },
   "active": "568a41695a222aba",
   "lastOpenFiles": [
-    "1. HTML/2. HTML Básico.md",
-    "1. HTML/HTML Avançado.md",
+    "3. Responsividade/0.9 O que é responsividade.md",
     "1. HTML/3. HTML Intermediário.md",
+    "1. HTML/4. HTML Avançado.md",
+    "3. Responsividade/1. Configurando a responsividade.md",
     "1. HTML/1. HTML Introdutório.md",
+    "3. Responsividade",
+    "1. HTML/2. HTML Básico.md",
     "Git/Comandos do Git importantes..md",
     "0. Lógica da Programação/Seções.md",
     "1. HTML/0.9 Html.md",
@@ -214,12 +217,12 @@
     "2. CSS/2. CSS Intermediário.md",
     "2. CSS/1. CSS Introdutório.md",
     "2. CSS/0.9 Css.md",
-    "3. JavaScript/0. Seções.md",
-    "3. JavaScript/1. JavaScript.md",
-    "3. JavaScript/2. Tipos de dados e operadores.md",
-    "3. JavaScript/3. Estruturas de Programação.md",
-    "3. JavaScript/Tabela Verdade.png",
-    "3. JavaScript/3.1 Estrutura de Funções.md",
+    "4. JavaScript/0. Seções.md",
+    "4. JavaScript/1. JavaScript.md",
+    "4. JavaScript/2. Tipos de dados e operadores.md",
+    "4. JavaScript/3. Estruturas de Programação.md",
+    "4. JavaScript/Tabela Verdade.png",
+    "4. JavaScript/3.1 Estrutura de Funções.md",
     "2026-08-29.md",
     "Sem título.canvas",
     "Sem título 1.canvas",
@@ -238,9 +241,6 @@
     "Pasted image 20260827220041.png",
     "Pensamentos e Ideias",
     "Nova pasta",
-    "Teoria da Computação.rar",
-    "Teoria da Computação/Teoria da Computação/Aula 2/📚 Preparação para a Aula 02.md",
-    "Teoria da Computação/Teoria da Computação/Aula 2/Sem título.md",
-    "Teoria da Computação/Teoria da Computação/Aula 1/Exercícios.md"
+    "Teoria da Computação/Teoria da Computação/Aula 2/📚 Preparação para a Aula 02.md"
   ]
 }
