@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Responsividade/1. Configurando a responsividade.md",
+                "file": "4. JavaScript/0. Seções.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Configurando a responsividade"
+              "title": "0. Seções"
             }
           }
         ]
@@ -201,28 +201,29 @@
   },
   "active": "568a41695a222aba",
   "lastOpenFiles": [
+    "4. JavaScript/1. JavaScript.md",
+    "4. JavaScript/5. JavaScript - Estruturas de repetição.md",
+    "4. JavaScript/4 JavaScript - Estruturas de controle.md",
+    "4. JavaScript/Tabela Verdade.png",
+    "4. JavaScript/3. JavaScript - Estruturas de Programação.md",
+    "4. JavaScript/2. JavaScript - Tipos de dados e operadores.md",
+    "4. JavaScript/0. Seções.md",
     "3. Responsividade/0.9 O que é responsividade.md",
-    "1. HTML/3. HTML Intermediário.md",
+    "2. CSS/3. CSS Intermediário.md",
+    "2. CSS/2. CSS Básico.md",
+    "2. CSS/1. CSS Introdutório.md",
     "1. HTML/4. HTML Avançado.md",
-    "3. Responsividade/1. Configurando a responsividade.md",
-    "1. HTML/1. HTML Introdutório.md",
-    "3. Responsividade",
+    "1. HTML/3. HTML Intermediário.md",
     "1. HTML/2. HTML Básico.md",
+    "1. HTML/1. HTML Introdutório.md",
+    "3. Responsividade/1. Configurando a responsividade.md",
+    "3. Responsividade",
     "Git/Comandos do Git importantes..md",
     "0. Lógica da Programação/Seções.md",
     "1. HTML/0.9 Html.md",
     "Git/2. Guia Git.md",
     "Git/1. Guia Git.md",
-    "2. CSS/3. CSS Avançado.md",
-    "2. CSS/2. CSS Intermediário.md",
-    "2. CSS/1. CSS Introdutório.md",
     "2. CSS/0.9 Css.md",
-    "4. JavaScript/0. Seções.md",
-    "4. JavaScript/1. JavaScript.md",
-    "4. JavaScript/2. Tipos de dados e operadores.md",
-    "4. JavaScript/3. Estruturas de Programação.md",
-    "4. JavaScript/Tabela Verdade.png",
-    "4. JavaScript/3.1 Estrutura de Funções.md",
     "2026-08-29.md",
     "Sem título.canvas",
     "Sem título 1.canvas",
@@ -240,7 +241,6 @@
     "Pasted image 20260827220045.png",
     "Pasted image 20260827220041.png",
     "Pensamentos e Ideias",
-    "Nova pasta",
-    "Teoria da Computação/Teoria da Computação/Aula 2/📚 Preparação para a Aula 02.md"
+    "Nova pasta"
   ]
 }
